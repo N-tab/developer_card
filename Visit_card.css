@@ -1,0 +1,25 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+div{
+	width: 75%;
+	max-width: auto;
+	height: auto;
+	position: center;
+	align-items: center;
+	text-align: center;
+	box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.2);
+	border-radius: 20px;
+   justify-content: center;
+   padding: 15px;
+   margin: auto;
+   font-family: 'Pattaya', sans-serif;
+}
